@@ -131,7 +131,44 @@ NORMALIZE.css
 
 	.column.flow-opposite { 
 	float: right; 
-	} 
+	}
+
+	/* NAV */
+
+	nav {
+		background: blue;
+		width: 100%;
+		padding: 2em 0;
+	}
+
+	.hero-br {
+		position: relative;
+	}
+
+	.hero-h1 {
+		position: absolute;
+		bottom: 4em;
+		left: 2em;
+	}
+
+	.profile {
+		float: right;
+		display: 
+	}
+
+	.inline-images {
+		display: inline-block;
+	}
+
+	.paragraph {
+		font-size: 1.2em;
+	}
+
+	.description {
+		margin: 4em 0;
+	}
+
+
 }
 
 /* Larger screen breakpoint (815px) */
